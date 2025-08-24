@@ -36,7 +36,7 @@ rsync -a docker-compose.yml root@your-server.example.com:/root/code/traefik-publ
 * Copy the env.example file now or you could also edit it locally first if you want.
 
 ```bash
-copy .env.example .env
+cp .env.example .env
 ```
 
 * Edit vars

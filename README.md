@@ -7,9 +7,10 @@
 You need to set the env variables shown in the .env.example either by making an `.env` file, exportin variables before running
 `docker compose up -d` or just add them in the `docker` command.
 
+when running locally just add the `.env` file, update it and run `docker compose -f docker-compose.local.yml up -d`
 
-## Public Traefik
 
+## Traefik Deployed on your server
 
 ### On the server:
 

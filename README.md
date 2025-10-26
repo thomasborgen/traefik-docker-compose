@@ -1,3 +1,9 @@
+# Deprecated
+
+Not going to do any more work here, but will polish [server services](https://github.com/thomasborgen/server-services) instead
+
+> Server services contains adminer and backweb so that you can use one instance of adminer to look at databases runnin on the server and using one backweb instance to backup services.
+
 # Traefik in a docker compose
 
 > This is just a file for me to have a traefik docker compose file that i can copy to my server
